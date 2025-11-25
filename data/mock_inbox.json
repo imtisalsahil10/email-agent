@@ -1,0 +1,107 @@
+[
+  {
+    "id": "1",
+    "sender": "manager@company.com",
+    "subject": "Project deadline and next steps",
+    "body": "Hi, we need the final report by Friday EOD. Please also prepare slides for Monday's review meeting.",
+    "timestamp": "2025-11-20T10:15:00"
+  },
+  {
+    "id": "2",
+    "sender": "newsletter@technews.com",
+    "subject": "This week in AI",
+    "body": "Welcome to this week's edition of TechNews AI. Here are the top stories...",
+    "timestamp": "2025-11-19T08:00:00"
+  },
+  {
+    "id": "3",
+    "sender": "random@spamoffers.co",
+    "subject": "You won a prize!!!",
+    "body": "Click here to claim your reward. Limited time only!!!",
+    "timestamp": "2025-11-18T12:30:00"
+  },
+  {
+    "id": "4",
+    "sender": "hr@company.com",
+    "subject": "Benefits enrollment open now",
+    "body": "Open enrollment for benefits is now available. Please review plans and enroll by Dec 1.",
+    "timestamp": "2025-11-22T09:00:00"
+  },
+  {
+    "id": "5",
+    "sender": "client@startupapp.io",
+    "subject": "Request: Feature clarification and timeline",
+    "body": "Can you confirm if the dashboard supports filtering by user role? We need an ETA for November 30.",
+    "timestamp": "2025-11-21T14:40:00"
+  },
+  {
+    "id": "6",
+    "sender": "events@conference.com",
+    "subject": "Registration: Product Leaders Summit",
+    "body": "Early-bird registration is open for Product Leaders Summit. Save 20% using code EARLY20.",
+    "timestamp": "2025-11-12T06:25:00"
+  },
+  {
+    "id": "7",
+    "sender": "friend@example.com",
+    "subject": "Birthday lunch next week?",
+    "body": "Hey — want to do lunch next Tuesday to celebrate my birthday? 12:00 or 12:30 works for me.",
+    "timestamp": "2025-11-23T17:30:00"
+  },
+  {
+    "id": "8",
+    "sender": "alerts@bank.com",
+    "subject": "Security notice: unusual sign-in",
+    "body": "We detected a sign-in from a new device. If this wasn't you, please reset your password.",
+    "timestamp": "2025-11-23T02:10:00"
+  },
+  {
+    "id": "9",
+    "sender": "newsletter@design.com",
+    "subject": "Top 10 design trends in 2026",
+    "body": "In this digest: color palettes, motion design, and layout systems you'll want to try.",
+    "timestamp": "2025-11-10T11:00:00"
+  },
+  {
+    "id": "10",
+    "sender": "vendor@softwareco.com",
+    "subject": "Invoice overdue - Action required",
+    "body": "Your invoice INV-1234 is overdue by 10 days. Please remit payment or contact us to arrange terms.",
+    "timestamp": "2025-11-20T12:00:00"
+  },
+  {
+    "id": "11",
+    "sender": "recruiter@careersite.com",
+    "subject": "Interview request — Product Manager",
+    "body": "We'd like to schedule a 45-minute interview next week. Please share availability.",
+    "timestamp": "2025-11-17T09:45:00"
+  },
+  {
+    "id": "12",
+    "sender": "colleague@company.com",
+    "subject": "Sync: API migration plan",
+    "body": "Quick sync today? I drafted a migration plan and a few open questions we need to resolve.",
+    "timestamp": "2025-11-24T08:05:00"
+  },
+  {
+    "id": "13",
+    "sender": "marketing@company.com",
+    "subject": "Please review the Q1 campaign brief",
+    "body": "Attached is the campaign brief — please provide feedback by next Wednesday.",
+    "timestamp": "2025-11-25T09:00:00"
+  },
+  {
+    "id": "14",
+    "sender": "no-reply@subscriptions.com",
+    "subject": "Subscription confirmation",
+    "body": "You successfully subscribed to Daily Dev Tips. Manage your subscription here.",
+    "timestamp": "2025-11-01T07:15:00"
+  },
+  {
+    "id": "15",
+    "sender": "projectlead@company.com",
+    "subject": "Action: Please triage onboarding bugs",
+    "body": "We need volunteers to triage the onboarding bugs list — please claim an item by EOD Thursday.",
+    "timestamp": "2025-11-18T16:22:00"
+  }
+]
